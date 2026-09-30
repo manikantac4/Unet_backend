@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+numpy
+shapely>=2.0
+pyproj
+pandas
+pydantic>=2
+earthengine-api
